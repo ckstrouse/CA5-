@@ -1,5 +1,6 @@
 # CA5-
 By Christopher Strouse &amp; Jasmine Cheng 
+
 CA05 – kNN Movie Recommender Engine
 What This Project Does
 This notebook builds a movie recommendation engine using the k-Nearest Neighbors (kNN) algorithm. Given a movie called "The Post", it finds the 5 most similar movies in the dataset. This is the same idea as the "More Like This" section you see on Netflix or IMDb.
